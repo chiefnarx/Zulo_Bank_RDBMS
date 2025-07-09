@@ -85,7 +85,7 @@ Tables were designed to support aggregation, filtering, and joins across dimensi
 
 ## 📝 Notes
 
-- ⏺ Used safe SQL statements with input substitution to prevent injection.  
-- ⏺ Dates were linked using generated `date_id` for clean time slicing.  
-- ⏺ Database schema supports scalable analytics and fast querying.
-- ⏺ Designed with modular functions to support ongoing updates and migrations.
+⏺ Used safe SQL statements with input substitution to prevent injection.  
+⏺ Dates were linked using generated `date_id` for clean time slicing.  
+⏺ Database schema supports scalable analytics and fast querying.
+⏺ Designed with modular functions to support ongoing updates and migrations.
