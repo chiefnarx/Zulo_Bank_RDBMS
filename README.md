@@ -1,6 +1,6 @@
 # 🏦 Zulo_Bank: Financial Data Warehouse Project
 
-Zulo_Bank is a full-stack data engineering and analytics pipeline built for a fictional banking system. It transforms raw banking data into a fully normalized, analytics-ready **Data Warehouse**, structured around a clean **star schema**.
+Zulo_Bank is a stack data engineering and analytics pipeline built for a fictional banking system. It transforms raw banking data into a fully normalized, analytics-ready **Data Warehouse**, structured around a clean **star schema**.
 
 ---
 
